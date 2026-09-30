@@ -1,0 +1,11 @@
+{
+  "name": "fintrack-pro",
+  "version": "1.0.0",
+  "description": "FinTrack Pro Smart Personal Finance Manager",
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.0.0"
+  }
+}
